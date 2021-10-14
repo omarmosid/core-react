@@ -8,7 +8,7 @@
     "src"
   ],
   "engines": {
-    "node": ">=10"
+    "node": ">=12"
   },
   "scripts": {
     "start": "tsdx watch",
@@ -37,6 +37,10 @@
   },
   "name": "@omarmosid/core-react",
   "author": "Mohammad Omar",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omarmosid/core-react.git"
+  },
   "module": "dist/react.esm.js",
   "size-limit": [
     {
